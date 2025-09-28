@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/costescu/tema2PP/target/scala-3.3.1/test-classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestTable.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestQueries.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestFilter$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Utils$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestDatabase.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/costescu/tema2PP/target/scala-3.3.1/test-classes.bak[0m

@@ -1,0 +1,34 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/costescu/tema2PP/src/test/scala/TestDatabase.scala:118:28 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m118 |[0m      [33mval[0m [36mt1[0m: [35mTable[0m = Utils.db1([31m0[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                      ^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                    [33mvalue[0m [35mdb1[0m in [33mobject[0m [35mUtils[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/costescu/tema2PP/src/test/scala/TestDatabase.scala:119:28 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m119 |[0m      [33mval[0m [36mt2[0m: [35mTable[0m = Utils.db1([31m1[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                      ^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                    [33mvalue[0m [35mdb1[0m in [33mobject[0m [35mUtils[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/costescu/tema2PP/src/test/scala/TestDatabase.scala:120:28 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m120 |[0m      [33mval[0m [36mt3[0m: [35mTable[0m = Utils.db1([31m2[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                      ^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                    [33mvalue[0m [35mdb1[0m in [33mobject[0m [35mUtils[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/costescu/tema2PP/src/test/scala/TestDatabase.scala:126:44 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m126 |[0m      [33mval[0m [36mtables[0m = ([31m1[0m to [31m10[0m).map([36mi[0m => Utils.db2(i - [31m1[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                                      ^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m                    [33mvalue[0m [35mdb2[0m in [33mobject[0m [35mUtils[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/costescu/tema2PP/src/test/scala/TestDatabase.scala:127:24 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m127 |[0m      assert(tables.map(_.name) == List([31m"1"[0m, [31m"2"[0m, [31m"3"[0m, [31m"4"[0m, [31m"5"[0m, [31m"6"[0m, [31m"7"[0m, [31m"8"[0m, [31m"9"[0m, [31m"10"[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m    |[0m                        ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mFound:    (_$5 : Nothing)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mRequired: ?{ name: ? }[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mNote that implicit conversions were not tried because the result of an implicit conversion[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0mmust be more specific than ?{ name: B }[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m    |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
